@@ -1,0 +1,907 @@
+,ID de caso,Fecha de diagnóstico,City,Department,Status,Age,Sex,Category,Country of Origin,datetime
+0,1,6/3/20,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,10 a 19,F,Importado,Italia,2020-03-06
+1,2,9/3/20,Buga,VALLE DEL CAUCA,Recuperado,30 a 39,M,Importado,España,2020-03-09
+2,3,9/3/20,Medellín,ANTIOQUIA,Recuperado,50 a 59,F,Importado,España,2020-03-09
+3,4,11/3/20,Medellín,ANTIOQUIA,Recuperado,50 a 59,M,Relacionado,Colombia,2020-03-11
+4,5,11/3/20,Medellín,ANTIOQUIA,Recuperado,20 a 29,M,Relacionado,Colombia,2020-03-11
+5,6,11/3/20,Itagüí,ANTIOQUIA,Casa,20 a 29,F,Relacionado,Colombia,2020-03-11
+6,7,11/3/20,Cartagena,BOLIVAR,Recuperado,80 a 89,F,Importado,Estados Unidos,2020-03-11
+7,8,11/3/20,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,20 a 29,F,Importado,España,2020-03-11
+8,9,11/3/20,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,20 a 29,F,Importado,España-Italia,2020-03-11
+9,10,12/3/20,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,30 a 39,F,Importado,España,2020-03-12
+10,11,12/3/20,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Importado,España,2020-03-12
+11,12,12/3/20,Neiva,HUILA,Casa,70 a 79,F,Importado,Italia,2020-03-12
+12,13,12/3/20,Neiva,HUILA,Casa,60 a 69,F,Relacionado,Colombia,2020-03-12
+13,14,13/03/2020,Palmira,VALLE DEL CAUCA,Casa,40 a 49,M,Importado,España,2020-03-13
+14,15,13/03/2020,Villavicencio,META,Recuperado,30 a 39,F,Importado,España,2020-03-13
+15,16,13/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,60 a 69,F,Importado,Italia-Ucrania-España,2020-03-13
+16,17,14/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,70 a 79,F,Importado,España,2020-03-14
+17,18,14/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,España,2020-03-14
+18,19,14/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,50 a 59,F,Relacionado,Colombia,2020-03-14
+19,20,14/03/2020,Medellín,ANTIOQUIA,Casa,20 a 29,F,Relacionado,Colombia,2020-03-14
+20,21,14/03/2020,Medellín,ANTIOQUIA,Casa,20 a 29,M,Relacionado,Colombia,2020-03-14
+21,22,14/03/2020,Rionegro,ANTIOQUIA,Casa,30 a 39,M,Importado,Estados Unidos,2020-03-14
+22,23,14/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Relacionado,Colombia,2020-03-14
+23,24,14/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,10 a 19,F,Importado,España,2020-03-14
+24,25,15/03/2020,Cali,VALLE DEL CAUCA,Casa,40 a 49,M,Importado,España,2020-03-15
+25,26,15/03/2020,Cartagena,BOLIVAR,Casa,30 a 39,F,Relacionado,Colombia,2020-03-15
+26,27,15/03/2020,Cartagena,BOLIVAR,Casa,30 a 39,F,Relacionado,Colombia,2020-03-15
+27,28,15/03/2020,Dosquebradas,RISARALDA,Casa,20 a 29,M,Importado,Estados Unidos,2020-03-15
+28,29,15/03/2020,Neiva,HUILA,Casa,50 a 59,F,Relacionado,Colombia,2020-03-15
+29,30,15/03/2020,Cúcuta,NORTE DE SANTANDER,Casa,40 a 49,F,Importado,España,2020-03-15
+30,31,15/03/2020,Manizales,CALDAS,Recuperado,60 a 69,M,Importado,Estados Unidos,2020-03-15
+31,32,15/03/2020,Medellín,ANTIOQUIA,Casa,50 a 59,M,Importado,España-Croacia-Bosnia,2020-03-15
+32,33,15/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,50 a 59,M,Importado,España,2020-03-15
+33,34,15/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,20 a 29,F,Importado,España,2020-03-15
+34,35,15/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,50 a 59,M,Importado,España,2020-03-15
+35,36,15/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,70 a 79,M,Importado,Estados Unidos,2020-03-15
+36,37,15/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-15
+37,38,15/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,España,2020-03-15
+38,39,15/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,50 a 59,M,Importado,España,2020-03-15
+39,40,15/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,20 a 29,F,Importado,España,2020-03-15
+40,41,15/03/2020,Neiva,HUILA,Casa,70 a 79,M,Relacionado,Colombia,2020-03-15
+41,42,15/03/2020,Neiva,HUILA,Casa,50 a 59,F,Relacionado,Colombia,2020-03-15
+42,43,15/03/2020,Neiva,HUILA,Recuperado,70 a 79,M,Relacionado,Colombia,2020-03-15
+43,44,15/03/2020,Neiva,HUILA,Casa,20 a 29,F,Relacionado,Colombia,2020-03-15
+44,45,15/03/2020,Subachoque,CUNDINAMARCA,Casa,20 a 29,M,Importado,España,2020-03-15
+45,46,16/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-16
+46,47,16/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Relacionado,Colombia,2020-03-16
+47,48,16/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,30 a 39,M,Relacionado,Colombia,2020-03-16
+48,49,16/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,40 a 49,F,Importado,España,2020-03-16
+49,50,16/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,60 a 69,F,Importado,España,2020-03-16
+50,51,16/03/2020,Soacha,CUNDINAMARCA,Casa,20 a 29,M,Importado,Ecuador,2020-03-16
+51,52,16/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,España,2020-03-16
+52,53,16/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,60 a 69,M,Importado,España,2020-03-16
+53,54,16/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,40 a 49,F,Importado,España,2020-03-16
+54,55,16/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,50 a 59,F,Relacionado,Colombia,2020-03-16
+55,56,16/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,España,2020-03-16
+56,57,16/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Relacionado,Colombia,2020-03-16
+57,58,17/03/2020,Cartagena,BOLIVAR,Casa,20 a 29,M,Relacionado,Colombia,2020-03-17
+58,59,17/03/2020,Barranquilla,ATLANTICO,Casa,20 a 29,M,Importado,España,2020-03-17
+59,60,17/03/2020,Bucaramanga,SANTANDER,Casa,20 a 29,M,Importado,España,2020-03-17
+60,61,17/03/2020,Barranquilla,ATLANTICO,Casa,20 a 29,M,Importado,España,2020-03-17
+61,62,17/03/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,M,Importado,Italia,2020-03-17
+62,63,17/03/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,F,Importado,Francia,2020-03-17
+63,64,17/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,España,2020-03-17
+64,65,17/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,M,Relacionado,Colombia,2020-03-17
+65,66,17/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,40 a 49,F,Importado,España,2020-03-17
+66,67,17/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,España,2020-03-17
+67,68,17/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,70 a 79,M,Importado,España,2020-03-17
+68,69,17/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-17
+69,70,17/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,Turquía - Grecia,2020-03-17
+70,71,17/03/2020,Cúcuta,NORTE DE SANTANDER,Casa,50 a 59,M,Relacionado,Colombia,2020-03-17
+71,72,17/03/2020,Cúcuta,NORTE DE SANTANDER,Casa,20 a 29,F,Relacionado,Colombia,2020-03-17
+72,73,17/03/2020,Cartagena,BOLIVAR,Casa,50 a 59,F,Relacionado,Colombia,2020-03-17
+73,74,17/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,10 a 19,M,Relacionado,Colombia,2020-03-17
+74,75,17/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-17
+75,76,18/03/2020,Armenia,QUINDIO,Casa,40 a 49,F,Importado,Italia,2020-03-18
+76,77,18/03/2020,Armenia,QUINDIO,Casa,10 a 19,M,Importado,España,2020-03-18
+77,78,18/03/2020,Palmira,VALLE DEL CAUCA,Casa,30 a 39,F,Relacionado,Colombia,2020-03-18
+78,79,18/03/2020,Palmira,VALLE DEL CAUCA,Casa,0 a 9,M,Relacionado,Colombia,2020-03-18
+79,80,18/03/2020,Palmira,VALLE DEL CAUCA,Casa,50 a 59,F,Relacionado,Colombia,2020-03-18
+80,81,18/03/2020,Cali,VALLE DEL CAUCA,Casa,40 a 49,F,Importado,Estados Unidos,2020-03-18
+81,82,18/03/2020,Cali,VALLE DEL CAUCA,Casa,50 a 59,M,Importado,España,2020-03-18
+82,83,18/03/2020,Cali,VALLE DEL CAUCA,Casa,50 a 59,M,Importado,Estados Unidos,2020-03-18
+83,84,18/03/2020,Cali,VALLE DEL CAUCA,Casa,50 a 59,M,Importado,Ecuador,2020-03-18
+84,85,18/03/2020,Cali,VALLE DEL CAUCA,Casa,40 a 49,F,Relacionado,Colombia,2020-03-18
+85,86,18/03/2020,Pereira,RISARALDA,Casa,20 a 29,M,Importado,Francia,2020-03-18
+86,87,18/03/2020,Cajicá,CUNDINAMARCA,Casa,40 a 49,M,Importado,España,2020-03-18
+87,88,18/03/2020,Ibagué,TOLIMA,Casa,30 a 39,M,Relacionado,Colombia,2020-03-18
+88,89,18/03/2020,Bucaramanga,SANTANDER,Casa,30 a 39,F,Importado,España,2020-03-18
+89,90,18/03/2020,Neiva,HUILA,Casa,50 a 59,F,Relacionado,Colombia,2020-03-18
+90,91,18/03/2020,Cajicá,CUNDINAMARCA,Casa,30 a 39,M,Importado,España - Egipto,2020-03-18
+91,92,18/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Relacionado,Colombia,2020-03-18
+92,93,18/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Recuperado,20 a 29,F,Importado,España,2020-03-18
+93,94,18/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Estados Unidos,2020-03-18
+94,95,18/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,60 a 69,M,Importado,Turquía,2020-03-18
+95,96,18/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,Estados Unidos,2020-03-18
+96,97,18/03/2020,Cartagena,BOLIVAR,Casa,20 a 29,M,Importado,Estados Unidos,2020-03-18
+97,98,18/03/2020,Cartagena,BOLIVAR,Casa,20 a 29,M,Importado,España,2020-03-18
+98,99,18/03/2020,Ibagué,TOLIMA,Casa,10 a 19,M,Relacionado,Colombia,2020-03-18
+99,100,18/03/2020,Pereira,RISARALDA,Casa,20 a 29,M,Importado,España,2020-03-18
+100,101,18/03/2020,Dosquebradas,RISARALDA,Casa,10 a 19,M,Importado,España,2020-03-18
+101,102,18/03/2020,Pereira,RISARALDA,Casa,70 a 79,M,Importado,España,2020-03-18
+102,103,19/03/2020,Cartagena,BOLIVAR,Casa,20 a 29,F,Importado,España,2020-03-19
+103,104,19/03/2020,Barranquilla,ATLANTICO,Casa,40 a 49,F,Importado,España,2020-03-19
+104,105,19/03/2020,Palmira,VALLE DEL CAUCA,Casa,20 a 29,F,Importado,España,2020-03-19
+105,106,19/03/2020,Medellín,ANTIOQUIA,Casa,40 a 49,M,Importado,España,2020-03-19
+106,107,19/03/2020,Medellín,ANTIOQUIA,Casa,50 a 59,M,Importado,España,2020-03-19
+107,108,19/03/2020,Medellín,ANTIOQUIA,Hospital UCI,50 a 59,F,Importado,España,2020-03-19
+108,109,19/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,España,2020-03-19
+109,110,19/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,Importado,Estados Unidos,2020-03-19
+110,111,19/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,M,Relacionado,Colombia,2020-03-19
+111,112,19/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,España,2020-03-19
+112,113,19/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Italia-España-Turquía,2020-03-19
+113,114,19/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Importado,Estados Unidos,2020-03-19
+114,115,19/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,Ecuador,2020-03-19
+115,116,19/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-19
+116,117,19/03/2020,Cúcuta,NORTE DE SANTANDER,Casa,20 a 29,M,Importado,España,2020-03-19
+117,118,19/03/2020,Cúcuta,NORTE DE SANTANDER,Recuperado,50 a 59,M,Relacionado,Colombia,2020-03-19
+118,119,19/03/2020,Cúcuta,NORTE DE SANTANDER,Casa,20 a 29,M,Relacionado,Colombia,2020-03-19
+119,120,19/03/2020,Armenia,QUINDIO,Casa,20 a 29,F,Relacionado,Colombia,2020-03-19
+120,121,19/03/2020,Popayán,CAUCA,Casa,60 a 69,M,Importado,España,2020-03-19
+121,122,19/03/2020,Popayán,CAUCA,Casa,30 a 39,F,Importado,España,2020-03-19
+122,123,19/03/2020,Viterbo,CALDAS,Recuperado,30 a 39,F,Importado,España,2020-03-19
+123,124,19/03/2020,Neiva,HUILA,Casa,70 a 79,F,Relacionado,Colombia,2020-03-19
+124,125,19/03/2020,Cartagena,BOLIVAR,Casa,40 a 49,M,Importado,España,2020-03-19
+125,126,19/03/2020,Barranquilla,ATLANTICO,Casa,50 a 59,F,Importado,Estados Unidos,2020-03-19
+126,127,19/03/2020,Barranquilla,ATLANTICO,Casa,30 a 39,F,Relacionado,Colombia,2020-03-19
+127,128,19/03/2020,Soacha,CUNDINAMARCA,Casa,50 a 59,M,Relacionado,Colombia,2020-03-19
+128,129,20/03/2020,Pereira,RISARALDA,Casa,20 a 29,F,Importado,España,2020-03-20
+129,130,20/03/2020,Anapoima,CUNDINAMARCA,Casa,50 a 59,M,Importado,Estados Unidos,2020-03-20
+130,131,20/03/2020,Medellín,ANTIOQUIA,Casa,20 a 29,F,Importado,España - Italia,2020-03-20
+131,132,20/03/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,M,Relacionado,Colombia,2020-03-20
+132,133,20/03/2020,Rionegro,ANTIOQUIA,Hospital UCI,50 a 59,M,Relacionado,Colombia,2020-03-20
+133,134,20/03/2020,Medellín,ANTIOQUIA,Casa,20 a 29,M,Relacionado,Colombia,2020-03-20
+134,135,20/03/2020,Medellín,ANTIOQUIA,Casa,40 a 49,F,Importado,Alemania,2020-03-20
+135,136,20/03/2020,Medellín,ANTIOQUIA,Casa,30 a 39,M,Relacionado,Colombia,2020-03-20
+136,137,20/03/2020,Medellín,ANTIOQUIA,Casa,50 a 59,M,Importado,España-Croacia,2020-03-20
+137,138,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Ecuador,2020-03-20
+138,139,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,España-India,2020-03-20
+139,140,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Brasil,2020-03-20
+140,141,20/03/2020,Medellín,ANTIOQUIA,Casa,60 a 69,F,Importado,Croacia,2020-03-20
+141,142,20/03/2020,Medellín,ANTIOQUIA,Casa,30 a 39,F,Importado,Italia- Jamaica- Panamá,2020-03-20
+142,143,20/03/2020,Envigado,ANTIOQUIA,Casa,40 a 49,M,Importado,España-Italia,2020-03-20
+143,144,20/03/2020,Medellín,ANTIOQUIA,Casa,40 a 49,M,Importado,Panamá,2020-03-20
+144,145,20/03/2020,Medellín,ANTIOQUIA,Casa,10 a 19,F,Relacionado,Colombia,2020-03-20
+145,146,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Relacionado,Colombia,2020-03-20
+146,147,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Relacionado,Colombia,2020-03-20
+147,148,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Relacionado,Colombia,2020-03-20
+148,149,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Alemania-Estambul,2020-03-20
+149,150,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Importado,Italia-España-Turquía,2020-03-20
+150,151,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Importado,Ecuador,2020-03-20
+151,152,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,60 a 69,M,Importado,Estados Unidos,2020-03-20
+152,153,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,50 a 59,F,Relacionado,Colombia,2020-03-20
+153,154,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Importado,Jamaica-Panamá-Isla Caimán,2020-03-20
+154,155,20/03/2020,Santa Marta,MAGDALENA,Casa,20 a 29,M,Importado,España,2020-03-20
+155,156,20/03/2020,Chía,CUNDINAMARCA,Casa,20 a 29,F,Importado,España,2020-03-20
+156,157,20/03/2020,Santa Marta,MAGDALENA,Fallecido,80 a 89,M,Relacionado,Colombia,2020-03-20
+157,158,20/03/2020,Madrid,CUNDINAMARCA,Casa,30 a 39,M,Relacionado,Colombia,2020-03-20
+158,159,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Estados Unidos,2020-03-20
+159,160,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Importado,Estados Unidos,2020-03-20
+160,161,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-20
+161,162,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,Estados Unidos,2020-03-20
+162,163,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,20 a 29,M,Relacionado,Colombia,2020-03-20
+163,164,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,Importado,España,2020-03-20
+164,165,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Relacionado,Colombia,2020-03-20
+165,166,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-20
+166,167,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-20
+167,168,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,20 a 29,F,Importado,España,2020-03-20
+168,169,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-20
+169,170,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Importado,Grecia,2020-03-20
+170,171,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Relacionado,Colombia,2020-03-20
+171,172,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Relacionado,Colombia,2020-03-20
+172,173,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,Importado,México,2020-03-20
+173,174,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,70 a 79,M,Importado,México,2020-03-20
+174,175,20/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Importado,España,2020-03-20
+175,176,21/03/2020,Ibagué,TOLIMA,Hospital,20 a 29,F,Importado,Estados Unidos,2020-03-21
+176,177,21/03/2020,Cartagena,BOLIVAR,Casa,20 a 29,M,Relacionado,Colombia,2020-03-21
+177,178,21/03/2020,Cartagena,BOLIVAR,Casa,20 a 29,M,Importado,Estados Unidos,2020-03-21
+178,179,21/03/2020,Cartagena,BOLIVAR,Casa,40 a 49,F,Relacionado,Colombia,2020-03-21
+179,180,21/03/2020,Villa del Rosario,NORTE DE SANTANDER,Casa,20 a 29,M,Importado,España,2020-03-21
+180,181,21/03/2020,Manizales,CALDAS,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-21
+181,182,21/03/2020,Cúcuta,NORTE DE SANTANDER,Casa,40 a 49,F,Relacionado,Colombia,2020-03-21
+182,183,21/03/2020,Cali,VALLE DEL CAUCA,Casa,40 a 49,F,Importado,Ecuador,2020-03-21
+183,184,21/03/2020,Pereira,RISARALDA,Hospital UCI,40 a 49,F,Importado,Estados Unidos,2020-03-21
+184,185,21/03/2020,Palmira,VALLE DEL CAUCA,Casa,50 a 59,F,Relacionado,Colombia,2020-03-21
+185,186,21/03/2020,Palmira,VALLE DEL CAUCA,Casa,50 a 59,F,Importado,España,2020-03-21
+186,187,21/03/2020,Cali,VALLE DEL CAUCA,Hospital UCI,70 a 79,M,Relacionado,Colombia,2020-03-21
+187,188,21/03/2020,Cali,VALLE DEL CAUCA,Fallecido,70 a 79,F,Relacionado,Colombia,2020-03-21
+188,189,21/03/2020,Cali,VALLE DEL CAUCA,Casa,80 a 89,F,Importado,Estados Unidos,2020-03-21
+189,190,21/03/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,M,Importado,España,2020-03-21
+190,191,21/03/2020,Palmira,VALLE DEL CAUCA,Casa,10 a 19,M,Importado,Estados Unidos,2020-03-21
+191,192,21/03/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,F,Relacionado,Colombia,2020-03-21
+192,193,21/03/2020,Cali,VALLE DEL CAUCA,Casa,50 a 59,F,Importado,Italia,2020-03-21
+193,194,21/03/2020,Palmira,VALLE DEL CAUCA,Casa,60 a 69,F,Importado,España,2020-03-21
+194,195,21/03/2020,Pereira,RISARALDA,Casa,60 a 69,F,Importado,Estados Unidos,2020-03-21
+195,196,21/03/2020,Neiva,HUILA,Casa,50 a 59,F,Importado,España,2020-03-21
+196,197,21/03/2020,Cartagena,BOLIVAR,Fallecido,50 a 59,M,Relacionado,Colombia,2020-03-21
+197,198,21/03/2020,Medellín,ANTIOQUIA,Casa,30 a 39,M,Importado,España,2020-03-21
+198,199,21/03/2020,Guarne,ANTIOQUIA,Casa,20 a 29,M,Importado,Estados Unidos,2020-03-21
+199,200,21/03/2020,Cartagena,BOLIVAR,Hospital,50 a 59,F,Relacionado,Colombia,2020-03-21
+200,201,21/03/2020,Chía,CUNDINAMARCA,Casa,50 a 59,F,Importado,España,2020-03-21
+201,202,21/03/2020,Bello,ANTIOQUIA,Recuperado (Hospital),50 a 59,M,Importado,España,2020-03-21
+202,203,21/03/2020,Barranquilla,ATLANTICO,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-21
+203,204,21/03/2020,Barranquilla,ATLANTICO,Casa,30 a 39,M,Importado,Estados Unidos,2020-03-21
+204,205,21/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Relacionado,Colombia,2020-03-21
+205,206,21/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,Importado,España,2020-03-21
+206,207,21/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,40 a 49,M,Importado,Guatemala,2020-03-21
+207,208,21/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,60 a 69,M,Importado,España,2020-03-21
+208,209,21/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,Importado,Londres,2020-03-21
+209,210,21/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Turquía,2020-03-21
+210,211,22/03/2020,Calarcá,QUINDIO,Casa,20 a 29,M,Importado,ESPAÑA,2020-03-22
+211,212,22/03/2020,Armenia,QUINDIO,Casa,50 a 59,F,Relacionado,COLOMBIA,2020-03-22
+212,213,22/03/2020,Valledupar,CESAR,Recuperado,30 a 39,M,Importado,ESPAÑA,2020-03-22
+213,214,22/03/2020,Dosquebradas,RISARALDA,Casa,50 a 59,F,Relacionado,COLOMBIA,2020-03-22
+214,215,22/03/2020,Dosquebradas,RISARALDA,Casa,50 a 59,F,Importado,GRECIA,2020-03-22
+215,216,22/03/2020,Dosquebradas,RISARALDA,Hospital UCI,40 a 49,M,Importado,ESPAÑA,2020-03-22
+216,217,22/03/2020,Pereira,RISARALDA,Casa,30 a 39,M,Importado,Madrid,2020-03-22
+217,218,22/03/2020,La Dorada,CALDAS,Casa,20 a 29,F,Relacionado,COLOMBIA,2020-03-22
+218,219,22/03/2020,Chinchiná,CALDAS,Casa,50 a 59,M,Importado,ESPAÑA,2020-03-22
+219,220,22/03/2020,Chinchiná,CALDAS,Casa,40 a 49,F,Relacionado,COLOMBIA,2020-03-22
+220,221,22/03/2020,BUCARAMANGA,SANTANDER,Casa,50 a 59,F,Importado,República Dominicana,2020-03-22
+221,222,22/03/2020,San Andrés,ARCHIPIELAGO DE SAN ANDRES PROVIDENCIA Y SANTA CATALINA,Casa,30 a 39,M,Relacionado,COLOMBIA,2020-03-22
+222,223,22/03/2020,Pereira,RISARALDA,Casa,70 a 79,F,Importado,Estados Unidos,2020-03-22
+223,224,22/03/2020,Ibagué,TOLIMA,Casa,10 a 19,M,Relacionado,COLOMBIA,2020-03-22
+224,225,22/03/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,M,Relacionado,COLOMBIA,2020-03-22
+225,226,22/03/2020,Yumbo,VALLE DEL CAUCA,Casa,40 a 49,F,Relacionado,COLOMBIA,2020-03-22
+226,227,22/03/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,M,Importado,Estados Unidos,2020-03-22
+227,228,22/03/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,M,Importado,ESPAÑA,2020-03-22
+228,229,22/03/2020,Yopal,CASANARE,Casa,30 a 39,F,Relacionado,COLOMBIA,2020-03-22
+229,230,22/03/2020,Armenia,QUINDIO,Casa,30 a 39,F,Relacionado,COLOMBIA,2020-03-22
+230,231,22/03/2020,Cali,VALLE DEL CAUCA,Casa,40 a 49,F,Relacionado,COLOMBIA,2020-03-22
+231,232,22/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Fallecido,50 a 59,F,Relacionado,Colombia,2020-03-22
+232,233,22/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,60 a 69,M,Relacionado,Colombia,2020-03-22
+233,234,22/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Relacionado,Colombia,2020-03-22
+234,235,22/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Importado,España,2020-03-22
+235,236,22/03/2020,Guatapé,ANTIOQUIA,Casa,50 a 59,M,Relacionado,Colombia,2020-03-22
+236,237,22/03/2020,Medellín,ANTIOQUIA,Casa,30 a 39,M,Importado,España,2020-03-22
+237,238,22/03/2020,Medellín,ANTIOQUIA,Casa,60 a 69,F,Importado,España,2020-03-22
+238,239,22/03/2020,Bello,ANTIOQUIA,Casa,40 a 49,M,Importado,España,2020-03-22
+239,240,22/03/2020,Medellín,ANTIOQUIA,Hospital UCI,30 a 39,M,Importado,España,2020-03-22
+240,241,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Relacionado,Colombia,2020-03-23
+241,242,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Importado,Estados Unidos,2020-03-23
+242,243,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Importado,España,2020-03-23
+243,244,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Panamá,2020-03-23
+244,245,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,70 a 79,F,Importado,Turquía - Grecia,2020-03-23
+245,246,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,20 a 29,M,Relacionado,Colombia,2020-03-23
+246,247,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Relacionado,Colombia,2020-03-23
+247,248,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,República Dominicana,2020-03-23
+248,249,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,España,2020-03-23
+249,250,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Fallecido,70 a 79,M,En estudio,Colombia,2020-03-23
+250,251,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Estados Unidos,2020-03-23
+251,252,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Relacionado,Colombia,2020-03-23
+252,253,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Relacionado,Colombia,2020-03-23
+253,254,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Importado,España,2020-03-23
+254,255,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,10 a 19,F,Importado,Estados Unidos,2020-03-23
+255,256,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Importado,Turquía,2020-03-23
+256,257,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,80 a 89,M,Relacionado,Colombia,2020-03-23
+257,258,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,Turquía,2020-03-23
+258,259,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,España,2020-03-23
+259,260,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,40 a 49,M,Importado,Inglaterra,2020-03-23
+260,261,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,60 a 69,M,Relacionado,Colombia,2020-03-23
+261,262,23/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Isla Martin - Caribe,2020-03-23
+262,263,23/03/2020,Medellín,ANTIOQUIA,Casa,50 a 59,M,Importado,España,2020-03-23
+263,264,23/03/2020,Envigado,ANTIOQUIA,Casa,30 a 39,F,Importado,España,2020-03-23
+264,265,23/03/2020,Cajicá,CUNDINAMARCA,Casa,50 a 59,M,Importado,Ecuador,2020-03-23
+265,266,23/03/2020,Cartagena,BOLIVAR,Hospital,80 a 89,F,Relacionado,Colombia,2020-03-23
+266,267,23/03/2020,Medellín,ANTIOQUIA,Casa,20 a 29,M,Importado,Estados Unidos,2020-03-23
+267,268,23/03/2020,Medellín,ANTIOQUIA,Casa,30 a 39,F,Importado,España,2020-03-23
+268,269,23/03/2020,Chía,CUNDINAMARCA,Hospital,50 a 59,M,Relacionado,Colombia,2020-03-23
+269,270,23/03/2020,Cartagena,BOLIVAR,Casa,50 a 59,F,Relacionado,Colombia,2020-03-23
+270,271,23/03/2020,Medellín,ANTIOQUIA,Casa,20 a 29,F,Importado,España,2020-03-23
+271,272,23/03/2020,Medellín,ANTIOQUIA,Casa,40 a 49,F,Importado,España,2020-03-23
+272,273,23/03/2020,Medellín,ANTIOQUIA,Hospital,80 a 89,M,Importado,Panamá,2020-03-23
+273,274,23/03/2020,Medellín,ANTIOQUIA,Casa,30 a 39,M,Importado,Estados Unidos,2020-03-23
+274,275,23/03/2020,Barbosa,ANTIOQUIA,Casa,20 a 29,F,Importado,España,2020-03-23
+275,276,23/03/2020,Cota,CUNDINAMARCA,Casa,50 a 59,M,Importado,Puerto Rico,2020-03-23
+276,277,23/03/2020,Sabaneta,ANTIOQUIA,Casa,30 a 39,F,Importado,Estados Unidos,2020-03-23
+277,278,23/03/2020,Armenia,QUINDIO,Hospital,60 a 69,M,Importado,España,2020-03-23
+278,279,23/03/2020,Villamaría,CALDAS,Casa,20 a 29,M,Importado,Ecuador,2020-03-23
+279,280,23/03/2020,Palmira,VALLE DEL CAUCA,Casa,60 a 69,F,Importado,España,2020-03-23
+280,281,23/03/2020,Trujillo,VALLE DEL CAUCA,Casa,50 a 59,M,Importado,España,2020-03-23
+281,282,23/03/2020,Cali,VALLE DEL CAUCA,Hospital UCI,40 a 49,M,Importado,Estados Unidos,2020-03-23
+282,283,23/03/2020,Cali,VALLE DEL CAUCA,Casa,50 a 59,M,Relacionado,Colombia,2020-03-23
+283,284,23/03/2020,Cali,VALLE DEL CAUCA,Casa,60 a 69,F,Importado,España,2020-03-23
+284,285,23/03/2020,Palmira,VALLE DEL CAUCA,Casa,40 a 49,F,Relacionado,Colombia,2020-03-23
+285,286,23/03/2020,Neiva,HUILA,Hospital,80 a 89,F,Relacionado,Colombia,2020-03-23
+286,287,23/03/2020,Soacha,CUNDINAMARCA,Casa,20 a 29,M,En estudio,Colombia,2020-03-23
+287,288,23/03/2020,Pacho,CUNDINAMARCA,Casa,20 a 29,M,Importado,España,2020-03-23
+288,289,23/03/2020,Dosquebradas,RISARALDA,Casa,40 a 49,F,Relacionado,Colombia,2020-03-23
+289,290,23/03/2020,Santa Marta,MAGDALENA,Hospital UCI,60 a 69,F,Relacionado,Colombia,2020-03-23
+290,291,23/03/2020,El Retiro,ANTIOQUIA,Casa,20 a 29,F,Importado,España,2020-03-23
+291,292,23/03/2020,Medellín,ANTIOQUIA,Casa,40 a 49,F,Importado,Estados Unidos,2020-03-23
+292,293,23/03/2020,Medellín,ANTIOQUIA,Casa,30 a 39,F,Importado,Ecuador,2020-03-23
+293,294,23/03/2020,Medellín,ANTIOQUIA,Casa,30 a 39,F,Importado,Estados Unidos,2020-03-23
+294,295,23/03/2020,Medellín,ANTIOQUIA,Casa,40 a 49,M,Relacionado,Colombia,2020-03-23
+295,296,23/03/2020,Medellín,ANTIOQUIA,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-23
+296,297,23/03/2020,Envigado,ANTIOQUIA,Casa,20 a 29,M,Importado,Londres,2020-03-23
+297,298,23/03/2020,Villavicencio,META,Casa,50 a 59,M,Importado,Ecuador,2020-03-23
+298,299,23/03/2020,Villavicencio,META,Casa,60 a 69,F,Importado,Ecuador,2020-03-23
+299,300,23/03/2020,Medellín,ANTIOQUIA,Casa,20 a 29,F,Importado,Turquía,2020-03-23
+300,301,23/03/2020,Apartado,ANTIOQUIA,Casa,20 a 29,F,Importado,Turquía,2020-03-23
+301,302,23/03/2020,Villavicencio,META,Casa,30 a 39,F,Importado,Estados Unidos,2020-03-23
+302,303,23/03/2020,Itagüí,ANTIOQUIA,Casa,70 a 79,F,Importado,Estados Unidos,2020-03-23
+303,304,23/03/2020,Bello,ANTIOQUIA,Casa,30 a 39,M,Importado,Estados Unidos,2020-03-23
+304,305,23/03/2020,Villavicencio,META,Casa,20 a 29,M,Importado,Ecuador,2020-03-23
+305,306,23/03/2020,Rionegro,ANTIOQUIA,Casa,20 a 29,M,Importado,Brasil,2020-03-23
+306,307,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Chile,2020-03-24
+307,308,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,En estudio,Colombia,2020-03-24
+308,309,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,50 a 59,M,Importado,Estados Unidos,2020-03-24
+309,310,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-24
+310,311,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,En estudio,Colombia,2020-03-24
+311,312,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,10 a 19,F,En estudio,Colombia,2020-03-24
+312,313,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,En estudio,Colombia,2020-03-24
+313,314,24/03/2020,Ipiales,NARIÑO,Casa,60 a 69,M,Importado,Ecuador,2020-03-24
+314,315,24/03/2020,Cúcuta,NORTE DE SANTANDER,Casa,40 a 49,M,Importado,Canadá,2020-03-24
+315,316,24/03/2020,Cúcuta,NORTE DE SANTANDER,Casa,10 a 19,M,Importado,Estados Unidos,2020-03-24
+316,317,24/03/2020,Mosquera,CUNDINAMARCA,Casa,30 a 39,M,Relacionado,Colombia,2020-03-24
+317,318,24/03/2020,Cúcuta,NORTE DE SANTANDER,Casa,70 a 79,M,Relacionado,Colombia,2020-03-24
+318,319,24/03/2020,Ibagué,TOLIMA,Casa,60 a 69,F,Importado,España,2020-03-24
+319,320,24/03/2020,Ibagué,TOLIMA,Casa,50 a 59,M,Importado,España,2020-03-24
+320,321,24/03/2020,Ibagué,TOLIMA,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-24
+321,322,24/03/2020,Ibagué,TOLIMA,Casa,50 a 59,F,Importado,España,2020-03-24
+322,323,24/03/2020,Viterbo,CALDAS,Casa,10 a 19,F,Relacionado,Colombia,2020-03-24
+323,324,24/03/2020,Barranquilla,ATLANTICO,Casa,50 a 59,M,Importado,Panamá,2020-03-24
+324,325,24/03/2020,Barranquilla,ATLANTICO,Casa,10 a 19,F,Importado,España,2020-03-24
+325,326,24/03/2020,Pereira,RISARALDA,Fallecido,60 a 69,M,Relacionado,Colombia,2020-03-24
+326,327,24/03/2020,Pereira,RISARALDA,Casa,30 a 39,F,Relacionado,Colombia,2020-03-24
+327,328,24/03/2020,Valledupar,CESAR,Casa,30 a 39,M,Relacionado,Colombia,2020-03-24
+328,329,24/03/2020,Cartagena,BOLIVAR,Casa,50 a 59,F,Importado,España,2020-03-24
+329,330,24/03/2020,Cartagena,BOLIVAR,Casa,40 a 49,M,Importado,Brasil,2020-03-24
+330,331,24/03/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,M,Importado,Costa Rica,2020-03-24
+331,332,24/03/2020,Cali,VALLE DEL CAUCA,Hospital UCI,30 a 39,F,Importado,España,2020-03-24
+332,333,24/03/2020,Pereira,RISARALDA,Casa,70 a 79,M,Importado,España,2020-03-24
+333,334,24/03/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,M,Relacionado,Colombia,2020-03-24
+334,335,24/03/2020,Cali,VALLE DEL CAUCA,Hospital UCI,50 a 59,M,Relacionado,Colombia,2020-03-24
+335,336,24/03/2020,Cartagena,BOLIVAR,Casa,20 a 29,M,Relacionado,Colombia,2020-03-24
+336,337,24/03/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,M,Relacionado,Colombia,2020-03-24
+337,338,24/03/2020,La Unión,VALLE DEL CAUCA,Casa,50 a 59,F,Importado,Londres,2020-03-24
+338,339,24/03/2020,Cartago,VALLE DEL CAUCA,Casa,40 a 49,F,Importado,España,2020-03-24
+339,340,24/03/2020,Cartagena,BOLIVAR,Casa,30 a 39,M,Relacionado,Colombia,2020-03-24
+340,341,24/03/2020,Neiva,HUILA,Casa,60 a 69,M,Relacionado,Colombia,2020-03-24
+341,342,24/03/2020,Cali,VALLE DEL CAUCA,Casa,40 a 49,F,Relacionado,Colombia,2020-03-24
+342,343,24/03/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-24
+343,344,24/03/2020,Cali,VALLE DEL CAUCA,Casa,50 a 59,M,Relacionado,Colombia,2020-03-24
+344,345,24/03/2020,Cali,VALLE DEL CAUCA,Casa,50 a 59,F,Relacionado,Colombia,2020-03-24
+345,346,24/03/2020,Cali,VALLE DEL CAUCA,Casa,80 a 89,M,Relacionado,Colombia,2020-03-24
+346,347,24/03/2020,Villavicencio,META,Casa,40 a 49,F,Importado,España,2020-03-24
+347,348,24/03/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,F,Relacionado,Colombia,2020-03-24
+348,349,24/03/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,F,Relacionado,Colombia,2020-03-24
+349,350,24/03/2020,Fusagasugá,CUNDINAMARCA,Casa,50 a 59,M,Importado,Turquía,2020-03-24
+350,351,24/03/2020,La Calera,CUNDINAMARCA,Hospital,50 a 59,M,Relacionado,Colombia,2020-03-24
+351,352,24/03/2020,Villeta,CUNDINAMARCA,Casa,30 a 39,M,Importado,España,2020-03-24
+352,353,24/03/2020,Palermo,HUILA,Casa,40 a 49,M,Importado,Ecuador,2020-03-24
+353,354,24/03/2020,San Pedro,VALLE DEL CAUCA,Casa,20 a 29,F,Relacionado,Colombia,2020-03-24
+354,355,24/03/2020,Villeta,CUNDINAMARCA,Casa,40 a 49,F,Importado,España,2020-03-24
+355,356,24/03/2020,Anapoima,CUNDINAMARCA,Casa,30 a 39,M,Importado,España,2020-03-24
+356,357,24/03/2020,Cali,VALLE DEL CAUCA,Casa,40 a 49,M,Relacionado,Colombia,2020-03-24
+357,358,24/03/2020,Cali,VALLE DEL CAUCA,Casa,50 a 59,F,Importado,España,2020-03-24
+358,359,24/03/2020,Neiva,HUILA,Casa,40 a 49,F,Relacionado,Colombia,2020-03-24
+359,360,24/03/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,M,Relacionado,Colombia,2020-03-24
+360,361,24/03/2020,Villavicencio,META,Casa,80 a 89,F,Importado,Estados Unidos,2020-03-24
+361,362,24/03/2020,Cali,VALLE DEL CAUCA,Casa,40 a 49,M,Importado,Ecuador,2020-03-24
+362,363,24/03/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,M,Importado,España,2020-03-24
+363,364,24/03/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,F,Relacionado,Colombia,2020-03-24
+364,365,24/03/2020,Cali,VALLE DEL CAUCA,Casa,60 a 69,M,Importado,España,2020-03-24
+365,366,24/03/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,M,Relacionado,Colombia,2020-03-24
+366,367,24/03/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,F,Relacionado,Colombia,2020-03-24
+367,368,24/03/2020,Armenia,QUINDIO,Casa,30 a 39,F,Importado,España,2020-03-24
+368,369,24/03/2020,Darién,VALLE DEL CAUCA,Casa,40 a 49,M,Importado,España,2020-03-24
+369,370,24/03/2020,Funza,CUNDINAMARCA,Casa,60 a 69,F,Relacionado,Colombia,2020-03-24
+370,371,24/03/2020,Santa Marta,MAGDALENA,Casa,80 a 89,F,Relacionado,Colombia,2020-03-24
+371,372,24/03/2020,Manizales,CALDAS,Hospital,70 a 79,M,Importado,Estados Unidos,2020-03-24
+372,373,24/03/2020,Cartagena,BOLIVAR,Casa,30 a 39,M,Importado,Estados Unidos,2020-03-24
+373,374,24/03/2020,Cali,VALLE DEL CAUCA,Hospital UCI,20 a 29,M,Relacionado,Colombia,2020-03-24
+374,375,24/03/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,M,Relacionado,Colombia,2020-03-24
+375,376,24/03/2020,Popayán,CAUCA,Casa,40 a 49,F,Relacionado,Colombia,2020-03-24
+376,377,24/03/2020,Tuluá,VALLE DEL CAUCA,Casa,50 a 59,M,Importado,Ecuador,2020-03-24
+377,378,24/03/2020,Tuluá,VALLE DEL CAUCA,Casa,40 a 49,M,Importado,Estados Unidos,2020-03-24
+378,379,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Relacionado,Colombia,2020-03-24
+379,380,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Relacionado,Colombia,2020-03-24
+380,381,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Importado,España,2020-03-24
+381,382,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Importado,Puerto Rico,2020-03-24
+382,383,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,M,Importado,Puerto Rico,2020-03-24
+383,384,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,M,Relacionado,Colombia,2020-03-24
+384,385,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,50 a 59,M,Importado,México,2020-03-24
+385,386,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Venezuela,2020-03-24
+386,387,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,40 a 49,F,En estudio,Colombia,2020-03-24
+387,388,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,Estados Unidos,2020-03-24
+388,389,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Fallecido,70 a 79,M,Relacionado,Colombia,2020-03-24
+389,390,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,70 a 79,F,Relacionado,Colombia,2020-03-24
+390,391,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Relacionado,Colombia,2020-03-24
+391,392,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Importado,España,2020-03-24
+392,393,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,México,2020-03-24
+393,394,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,M,Importado,Estados Unidos,2020-03-24
+394,395,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,40 a 49,M,Relacionado,Colombia,2020-03-24
+395,396,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Importado,Canadá,2020-03-24
+396,397,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Relacionado,Colombia,2020-03-24
+397,398,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Relacionado,Colombia,2020-03-24
+398,399,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,España,2020-03-24
+399,400,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,Importado,España,2020-03-24
+400,401,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,Londres,2020-03-24
+401,402,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,70 a 79,F,Importado,España,2020-03-24
+402,403,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,México,2020-03-24
+403,404,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Puerto Rico,2020-03-24
+404,405,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Relacionado,Colombia,2020-03-24
+405,406,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,España,2020-03-24
+406,407,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Importado,España,2020-03-24
+407,408,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Importado,Ecuador,2020-03-24
+408,409,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-24
+409,410,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,Ecuador,2020-03-24
+410,411,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Importado,México,2020-03-24
+411,412,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,50 a 59,F,En estudio,Colombia,2020-03-24
+412,413,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,M,Relacionado,Colombia,2020-03-24
+413,414,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Importado,Brasil,2020-03-24
+414,415,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,60 a 69,M,En estudio,Colombia,2020-03-24
+415,416,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,España,2020-03-24
+416,417,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Relacionado,Colombia,2020-03-24
+417,418,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,60 a 69,F,En estudio,Colombia,2020-03-24
+418,419,24/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-24
+419,420,25/03/2020,Santa Marta,MAGDALENA,Casa,50 a 59,M,En estudio,Colombia,2020-03-25
+420,421,25/03/2020,Soledad,ATLANTICO,Casa,20 a 29,F,En estudio,Colombia,2020-03-25
+421,422,25/03/2020,Cartagena,BOLIVAR,Casa,50 a 59,F,Relacionado,Colombia,2020-03-25
+422,423,25/03/2020,Pereira,RISARALDA,Casa,20 a 29,F,Relacionado,Colombia,2020-03-25
+423,424,25/03/2020,Pereira,RISARALDA,Casa,60 a 69,M,Importado,Estados Unidos,2020-03-25
+424,425,25/03/2020,Cali,VALLE DEL CAUCA,Casa,80 a 89,F,Relacionado,Colombia,2020-03-25
+425,426,25/03/2020,Cartagena,BOLIVAR,Casa,40 a 49,F,Relacionado,Colombia,2020-03-25
+426,427,25/03/2020,Cartagena,BOLIVAR,Casa,50 a 59,M,Relacionado,Colombia,2020-03-25
+427,428,25/03/2020,Ibagué,TOLIMA,Casa,40 a 49,M,Importado,Estados Unidos,2020-03-25
+428,429,25/03/2020,El Dovio,VALLE DEL CAUCA,Casa,40 a 49,M,Importado,Italia,2020-03-25
+429,430,25/03/2020,Cartagena,BOLIVAR,Casa,30 a 39,M,Relacionado,Colombia,2020-03-25
+430,431,25/03/2020,Armenia,QUINDIO,Casa,50 a 59,F,Relacionado,Colombia,2020-03-25
+431,432,25/03/2020,Palmira,VALLE DEL CAUCA,Casa,0 a 9,M,Relacionado,Colombia,2020-03-25
+432,433,25/03/2020,Armenia,QUINDIO,Casa,30 a 39,M,Relacionado,Colombia,2020-03-25
+433,434,25/03/2020,Barranquilla,ATLANTICO,Casa,20 a 29,M,Importado,Estados Unidos,2020-03-25
+434,435,25/03/2020,Armenia,QUINDIO,Casa,10 a 19,M,Relacionado,Colombia,2020-03-25
+435,436,25/03/2020,Cartagena,BOLIVAR,Casa,30 a 39,F,Relacionado,Colombia,2020-03-25
+436,437,25/03/2020,Cúcuta,NORTE DE SANTANDER,Casa,60 a 69,F,Relacionado,Colombia,2020-03-25
+437,438,25/03/2020,Medellín,ANTIOQUIA,Casa,30 a 39,F,Relacionado,Colombia,2020-03-25
+438,439,25/03/2020,La Dorada,CALDAS,Casa,20 a 29,M,Relacionado,Colombia,2020-03-25
+439,440,25/03/2020,Cúcuta,NORTE DE SANTANDER,Casa,70 a 79,F,Relacionado,Colombia,2020-03-25
+440,441,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-25
+441,442,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Relacionado,Colombia,2020-03-25
+442,443,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Relacionado,Colombia,2020-03-25
+443,444,25/03/2020,Medellín,ANTIOQUIA,Casa,30 a 39,M,Importado,Brasil,2020-03-25
+444,445,25/03/2020,Santana,BOYACA,Casa,50 a 59,F,Relacionado,Colombia,2020-03-25
+445,446,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Relacionado,Colombia,2020-03-25
+446,447,25/03/2020,Cota,CUNDINAMARCA,Casa,50 a 59,M,Relacionado,Colombia,2020-03-25
+447,448,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Relacionado,Colombia,2020-03-25
+448,449,25/03/2020,Popayán,CAUCA,Casa,40 a 49,M,Relacionado,Colombia,2020-03-25
+449,450,25/03/2020,Medellín,ANTIOQUIA,Casa,20 a 29,F,Relacionado,Colombia,2020-03-25
+450,451,25/03/2020,Bucaramanga,SANTANDER,Casa,30 a 39,F,Importado,México,2020-03-25
+451,452,25/03/2020,Bello,ANTIOQUIA,Casa,40 a 49,F,Importado,España,2020-03-25
+452,453,25/03/2020,Manizales,CALDAS,Casa,20 a 29,F,Importado,España,2020-03-25
+453,454,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Importado,España,2020-03-25
+454,455,25/03/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,F,Importado,Estados Unidos,2020-03-25
+455,456,25/03/2020,Palmira,VALLE DEL CAUCA,Casa,50 a 59,M,Relacionado,Colombia,2020-03-25
+456,457,25/03/2020,Villavicencio,META,Casa,20 a 29,M,Importado,Estados Unidos,2020-03-25
+457,458,25/03/2020,Popayán,CAUCA,Casa,40 a 49,F,Relacionado,Colombia,2020-03-25
+458,459,25/03/2020,Popayán,CAUCA,Casa,20 a 29,M,Relacionado,Colombia,2020-03-25
+459,460,25/03/2020,Armenia,QUINDIO,Hospital,70 a 79,M,Relacionado,Colombia,2020-03-25
+460,461,25/03/2020,Cúcuta,NORTE DE SANTANDER,Casa,40 a 49,F,Relacionado,Colombia,2020-03-25
+461,462,25/03/2020,Frontino,ANTIOQUIA,Casa,10 a 19,M,Relacionado,Colombia,2020-03-25
+462,463,25/03/2020,Barranquilla,ATLANTICO,Casa,10 a 19,F,Importado,España,2020-03-25
+463,464,25/03/2020,Medellín,ANTIOQUIA,Casa,30 a 39,M,Relacionado,Colombia,2020-03-25
+464,465,25/03/2020,Medellín,ANTIOQUIA,Casa,20 a 29,M,En estudio,Colombia,2020-03-25
+465,466,25/03/2020,Medellín,ANTIOQUIA,Casa,30 a 39,F,En estudio,Colombia,2020-03-25
+466,467,25/03/2020,Cúcuta,NORTE DE SANTANDER,Casa,30 a 39,M,En estudio,Colombia,2020-03-25
+467,468,25/03/2020,Popayán,CAUCA,Casa,0 a 9,F,Relacionado,Colombia,2020-03-25
+468,469,25/03/2020,Popayán,CAUCA,Casa,30 a 39,F,Relacionado,Colombia,2020-03-25
+469,470,25/03/2020,Popayán,CAUCA,Casa,40 a 49,F,Relacionado,Colombia,2020-03-25
+470,471,25/03/2020,Barranquilla,ATLANTICO,Casa,50 a 59,F,Importado,Estados Unidos,2020-03-25
+471,472,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,10 a 19,F,Importado,Alemania,2020-03-25
+472,473,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,En estudio,Colombia,2020-03-25
+473,474,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Relacionado,Colombia,2020-03-25
+474,475,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,México,2020-03-25
+475,476,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Importado,México,2020-03-25
+476,477,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,Ecuador,2020-03-25
+477,478,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,80 a 89,F,Relacionado,Colombia,2020-03-25
+478,479,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,En estudio,Colombia,2020-03-25
+479,480,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Importado,Estados Unidos,2020-03-25
+480,481,25/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,40 a 49,M,Relacionado,Colombia,2020-03-25
+481,482,26/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Ecuador,2020-03-26
+482,483,26/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,En estudio,Colombia,2020-03-26
+483,484,26/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Relacionado,Colombia,2020-03-26
+484,485,26/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Relacionado,Colombia,2020-03-26
+485,486,26/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,España,2020-03-26
+486,487,26/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,España,2020-03-26
+487,488,26/03/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,M,Relacionado,Colombia,2020-03-26
+488,489,26/03/2020,Tunja,BOYACA,Casa,60 a 69,M,Importado,España,2020-03-26
+489,490,26/03/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,M,Importado,Estados Unidos,2020-03-26
+490,491,26/03/2020,Bogotá,SANTAFE DE BOGOTA D.C,Fallecido,80 a 89,M,En estudio,Colombia,2020-03-26
+491,492,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,80 a 89,M,Importado,España,2020-03-27
+492,493,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,M,Relacionado,Colombia,2020-03-27
+493,494,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,En estudio,Colombia,2020-03-27
+494,495,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Panamá,2020-03-27
+495,496,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,Panamá,2020-03-27
+496,497,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Estados Unidos,2020-03-27
+497,498,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Importado,España,2020-03-27
+498,499,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,40 a 49,F,Importado,España,2020-03-27
+499,500,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Importado,Chile,2020-03-27
+500,501,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Relacionado,Colombia,2020-03-27
+501,502,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,30 a 39,M,En estudio,Colombia,2020-03-27
+502,503,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Ecuador,2020-03-27
+503,504,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,Brasil,2020-03-27
+504,505,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Francia,2020-03-27
+505,506,27/3/2020,Tocancipá,CUNDINAMARCA,Casa,30 a 39,F,Importado,España,2020-03-27
+506,507,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Importado,España,2020-03-27
+507,508,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,España,2020-03-27
+508,509,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-27
+509,510,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,70 a 79,M,Relacionado,Colombia,2020-03-27
+510,511,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,70 a 79,F,En estudio,Colombia,2020-03-27
+511,512,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,España,2020-03-27
+512,513,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,70 a 79,M,Relacionado,Colombia,2020-03-27
+513,514,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,70 a 79,M,En estudio,Colombia,2020-03-27
+514,515,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,España,2020-03-27
+515,516,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,80 a 89,F,Importado,España,2020-03-27
+516,517,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Relacionado,Colombia,2020-03-27
+517,518,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Relacionado,Colombia,2020-03-27
+518,519,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Relacionado,Colombia,2020-03-27
+519,520,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Relacionado,Colombia,2020-03-27
+520,521,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Relacionado,Colombia,2020-03-27
+521,522,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Relacionado,Colombia,2020-03-27
+522,523,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,Importado,Francia,2020-03-27
+523,524,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Estados Unidos,2020-03-27
+524,525,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Ecuador,2020-03-27
+525,526,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Relacionado,Colombia,2020-03-27
+526,527,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Relacionado,Colombia,2020-03-27
+527,528,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Relacionado,Colombia,2020-03-27
+528,529,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Relacionado,Colombia,2020-03-27
+529,530,27/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Relacionado,Colombia,2020-03-27
+530,531,27/3/2020,Santa Marta,MAGDALENA,Casa,20 a 29,F,En estudio,Colombia,2020-03-27
+531,532,27/3/2020,Puerto Colombia,ATLANTICO,Casa,40 a 49,F,En estudio,Colombia,2020-03-27
+532,533,27/3/2020,Barranquilla,ATLANTICO,Casa,20 a 29,M,Importado,España,2020-03-27
+533,534,27/3/2020,Armenia,QUINDIO,Casa,60 a 69,M,Importado,Estados Unidos,2020-03-27
+534,535,27/3/2020,Soledad,ATLANTICO,Fallecido,50 a 59,M,Relacionado,Colombia,2020-03-27
+535,536,27/3/2020,Armenia,QUINDIO,Casa,40 a 49,M,Importado,Francia,2020-03-27
+536,537,27/3/2020,Armenia,QUINDIO,Casa,30 a 39,F,Relacionado,Colombia,2020-03-27
+537,538,27/3/2020,Santa Marta,MAGDALENA,Casa,60 a 69,F,En estudio,Colombia,2020-03-27
+538,539,27/3/2020,Manizales,CALDAS,Casa,80 a 89,M,Relacionado,Colombia,2020-03-27
+539,540,28/3/2020,Mosquera,CUNDINAMARCA,Casa,30 a 39,M,Importado,Egipto,2020-03-28
+540,541,28/3/2020,Cali,VALLE DEL CAUCA,Casa,50 a 59,F,Relacionado,Colombia,2020-03-28
+541,542,28/3/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,M,Importado,Costa Rica,2020-03-28
+542,543,28/3/2020,Cali,VALLE DEL CAUCA,Fallecido,50 a 59,M,Relacionado,Colombia,2020-03-28
+543,544,28/3/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,F,Relacionado,Colombia,2020-03-28
+544,545,28/3/2020,Palmira,VALLE DEL CAUCA,Casa,0 a 9,M,Relacionado,Colombia,2020-03-28
+545,546,28/3/2020,Palmira,VALLE DEL CAUCA,Casa,60 a 69,F,Relacionado,Colombia,2020-03-28
+546,547,28/3/2020,Sahagún,CORDOBA,Casa,20 a 29,F,Importado,España,2020-03-28
+547,548,28/3/2020,Pasto,NARIÑO,Casa,50 a 59,M,Importado,México,2020-03-28
+548,549,28/3/2020,Valledupar,CESAR,Casa,10 a 19,F,Importado,Londres,2020-03-28
+549,550,28/3/2020,Polonuevo,ATLANTICO,Casa,10 a 19,M,En estudio,Colombia,2020-03-28
+550,551,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,En estudio,Colombia,2020-03-28
+551,552,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,40 a 49,M,En estudio,Colombia,2020-03-28
+552,553,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Ecuador,2020-03-28
+553,554,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,En estudio,Colombia,2020-03-28
+554,555,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Ecuador,2020-03-28
+555,556,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Importado,México,2020-03-28
+556,557,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,80 a 89,F,En estudio,Colombia,2020-03-28
+557,558,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Importado,Jamaica,2020-03-28
+558,559,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,50 a 59,M,En estudio,Colombia,2020-03-28
+559,560,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,50 a 59,F,En estudio,Colombia,2020-03-28
+560,561,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,40 a 49,M,En estudio,Colombia,2020-03-28
+561,562,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Relacionado,Colombia,2020-03-28
+562,563,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,En estudio,Colombia,2020-03-28
+563,564,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,En estudio,Colombia,2020-03-28
+564,565,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,En estudio,Colombia,2020-03-28
+565,566,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,40 a 49,F,En estudio,Colombia,2020-03-28
+566,567,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,En estudio,Colombia,2020-03-28
+567,568,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-28
+568,569,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Fallecido,50 a 59,F,En estudio,Colombia,2020-03-28
+569,570,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-28
+570,571,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,En estudio,Colombia,2020-03-28
+571,572,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,En estudio,Colombia,2020-03-28
+572,573,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,Cuba,2020-03-28
+573,574,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-28
+574,575,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,España,2020-03-28
+575,576,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,Europa,2020-03-28
+576,577,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-28
+577,578,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,España,2020-03-28
+578,579,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,Importado,Estados Unidos,2020-03-28
+579,580,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Relacionado,Colombia,2020-03-28
+580,581,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,En estudio,Colombia,2020-03-28
+581,582,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,M,En estudio,Colombia,2020-03-28
+582,583,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,30 a 39,M,En estudio,Colombia,2020-03-28
+583,584,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,México,2020-03-28
+584,585,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Relacionado,Colombia,2020-03-28
+585,586,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,60 a 69,F,Importado,"Jamaica, Isla Caimán, Panamá",2020-03-28
+586,587,28/3/2020,Villapinzón,CUNDINAMARCA,Hospital UCI,60 a 69,F,En estudio,Colombia,2020-03-28
+587,588,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Relacionado,Colombia,2020-03-28
+588,589,28/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Importado,España,2020-03-28
+589,590,28/3/2020,Cartago,VALLE DEL CAUCA,Casa,50 a 59,M,Importado,España,2020-03-28
+590,591,28/3/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,F,Relacionado,Colombia,2020-03-28
+591,592,28/3/2020,Cali,VALLE DEL CAUCA,Casa,70 a 79,M,Importado,España,2020-03-28
+592,593,28/3/2020,Cali,VALLE DEL CAUCA,Casa,40 a 49,F,Importado,España,2020-03-28
+593,594,28/3/2020,Cali,VALLE DEL CAUCA,Hospital,20 a 29,M,En estudio,Colombia,2020-03-28
+594,595,28/3/2020,Medellín,ANTIOQUIA,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-28
+595,596,28/3/2020,Montebello,ANTIOQUIA,Casa,50 a 59,F,Importado,Panamá,2020-03-28
+596,597,28/3/2020,Medellín,ANTIOQUIA,Casa,20 a 29,M,Importado,Alemania,2020-03-28
+597,598,28/3/2020,Medellín,ANTIOQUIA,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-28
+598,599,28/3/2020,Medellín,ANTIOQUIA,Casa,30 a 39,F,Importado,Estados Unidos,2020-03-28
+599,600,28/3/2020,Chinchiná,CALDAS,Casa,20 a 29,M,Relacionado,Colombia,2020-03-28
+600,601,28/3/2020,Armenia,QUINDIO,Casa,50 a 59,M,Importado,Estados Unidos,2020-03-28
+601,602,28/3/2020,Medellín,ANTIOQUIA,Casa,40 a 49,F,Importado,España,2020-03-28
+602,603,28/3/2020,Santa Rosa de Oso,ANTIOQUIA,Casa,50 a 59,M,Importado,Jamaica,2020-03-28
+603,604,28/3/2020,Barranquilla,ATLANTICO,Casa,50 a 59,M,Relacionado,Colombia,2020-03-28
+604,605,28/3/2020,Barranquilla,ATLANTICO,Casa,30 a 39,F,Relacionado,Colombia,2020-03-28
+605,606,28/3/2020,Turbaco,BOLIVAR,Hospital UCI,50 a 59,M,Relacionado,Colombia,2020-03-28
+606,607,28/3/2020,Cartagena,BOLIVAR,Casa,30 a 39,M,Relacionado,Colombia,2020-03-28
+607,608,28/3/2020,Barranquilla,ATLANTICO,Casa,40 a 49,M,Importado,España,2020-03-28
+608,609,29/3/2020,Envigado,ANTIOQUIA,Casa,50 a 59,F,Importado,Turquía,2020-03-29
+609,610,29/3/2020,Envigado,ANTIOQUIA,Hospital,60 a 69,M,En estudio,Colombia,2020-03-29
+610,611,29/3/2020,Medellín,ANTIOQUIA,Casa,80 a 89,F,Importado,Panamá,2020-03-29
+611,612,29/3/2020,Medellín,ANTIOQUIA,Hospital UCI,40 a 49,M,En estudio,Colombia,2020-03-29
+612,613,29/3/2020,Bello,ANTIOQUIA,Casa,70 a 79,M,Importado,España,2020-03-29
+613,614,29/3/2020,Cali,VALLE DEL CAUCA,Casa,60 a 69,F,En estudio,Colombia,2020-03-29
+614,615,29/3/2020,Cali,VALLE DEL CAUCA,Casa,40 a 49,M,Relacionado,Colombia,2020-03-29
+615,616,29/3/2020,Cali,VALLE DEL CAUCA,Casa,10 a 19,F,Relacionado,Colombia,2020-03-29
+616,617,29/3/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,M,Relacionado,Colombia,2020-03-29
+617,618,29/3/2020,Cali,VALLE DEL CAUCA,Casa,60 a 69,F,En estudio,Colombia,2020-03-29
+618,619,29/3/2020,Cali,VALLE DEL CAUCA,Fallecido,30 a 39,M,En estudio,Colombia,2020-03-29
+619,620,29/3/2020,Palmira,VALLE DEL CAUCA,Casa,40 a 49,M,Importado,Emiratos Árabes,2020-03-29
+620,621,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Relacionado,Colombia,2020-03-29
+621,622,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Importado,España,2020-03-29
+622,623,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,Importado,Alemania,2020-03-29
+623,624,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,30 a 39,M,Relacionado,Colombia,2020-03-29
+624,625,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-29
+625,626,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-29
+626,627,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Importado,Islas San Martin,2020-03-29
+627,628,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-29
+628,629,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-29
+629,630,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,60 a 69,M,Importado,Puerto Rico,2020-03-29
+630,631,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Relacionado,Colombia,2020-03-29
+631,632,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,70 a 79,M,Relacionado,Colombia,2020-03-29
+632,633,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,Relacionado,Colombia,2020-03-29
+633,634,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Importado,Panamá,2020-03-29
+634,635,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Relacionado,Colombia,2020-03-29
+635,636,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,Importado,España,2020-03-29
+636,637,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Relacionado,Colombia,2020-03-29
+637,638,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Importado,México,2020-03-29
+638,639,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Relacionado,Colombia,2020-03-29
+639,640,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,60 a 69,M,En estudio,Colombia,2020-03-29
+640,641,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,En estudio,Colombia,2020-03-29
+641,642,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Relacionado,Colombia,2020-03-29
+642,643,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-29
+643,644,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-29
+644,645,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-29
+645,646,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,España,2020-03-29
+646,647,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Importado,Bélgica,2020-03-29
+647,648,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-29
+648,649,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,España,2020-03-29
+649,650,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,M,Relacionado,Colombia,2020-03-29
+650,651,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,50 a 59,M,En estudio,Colombia,2020-03-29
+651,652,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Relacionado,Colombia,2020-03-29
+652,653,29/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Relacionado,Colombia,2020-03-29
+653,654,29/3/2020,Bello,ANTIOQUIA,Casa,30 a 39,F,Importado,Jamaica,2020-03-29
+654,655,29/3/2020,Bello,ANTIOQUIA,Casa,20 a 29,M,Importado,Panamá,2020-03-29
+655,656,29/3/2020,Medellín,ANTIOQUIA,Casa,60 a 69,F,Relacionado,Colombia,2020-03-29
+656,657,29/3/2020,Medellín,ANTIOQUIA,Casa,0 a 9,F,Relacionado,Colombia,2020-03-29
+657,658,29/3/2020,Medellín,ANTIOQUIA,Casa,30 a 39,F,Relacionado,Colombia,2020-03-29
+658,659,29/3/2020,Neiva,HUILA,Casa,20 a 29,M,Relacionado,Colombia,2020-03-29
+659,660,29/3/2020,Neiva,HUILA,Casa,20 a 29,F,Relacionado,Colombia,2020-03-29
+660,661,29/3/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,M,Relacionado,Colombia,2020-03-29
+661,662,29/3/2020,Valledupar,CESAR,Casa,30 a 39,M,Importado,España,2020-03-29
+662,663,29/3/2020,Cartagena,BOLIVAR,Casa,10 a 19,F,Relacionado,Colombia,2020-03-29
+663,664,29/3/2020,Cartagena,BOLIVAR,Casa,40 a 49,F,Relacionado,Colombia,2020-03-29
+664,665,29/3/2020,Cartagena,BOLIVAR,Casa,20 a 29,F,Relacionado,Colombia,2020-03-29
+665,666,29/3/2020,Cartagena,BOLIVAR,Casa,20 a 29,F,Relacionado,Colombia,2020-03-29
+666,667,29/3/2020,Cartagena,BOLIVAR,Casa,20 a 29,F,Relacionado,Colombia,2020-03-29
+667,668,29/3/2020,Barranquilla,ATLANTICO,Casa,60 a 69,M,Relacionado,Colombia,2020-03-29
+668,669,29/3/2020,Sincelejo,SUCRE,Casa,20 a 29,F,Relacionado,Colombia,2020-03-29
+669,670,29/3/2020,Villamaría,CALDAS,Casa,30 a 39,F,Importado,España,2020-03-29
+670,671,29/3/2020,Barranquilla,ATLANTICO,Casa,20 a 29,F,Relacionado,Colombia,2020-03-29
+671,672,29/3/2020,Barranquilla,ATLANTICO,Casa,0 a 9,M,Relacionado,Colombia,2020-03-29
+672,673,29/3/2020,Barranquilla,ATLANTICO,Casa,30 a 39,M,Relacionado,Colombia,2020-03-29
+673,674,29/3/2020,Cartagena,BOLIVAR,Fallecido,30 a 39,F,Relacionado,Colombia,2020-03-29
+674,675,29/3/2020,Cartagena,BOLIVAR,Casa,40 a 49,M,Importado,Estados Unidos,2020-03-29
+675,676,29/3/2020,Rionegro,ANTIOQUIA,Casa,20 a 29,M,En estudio,Colombia,2020-03-29
+676,677,29/3/2020,Rionegro,ANTIOQUIA,Hospital,80 a 89,M,En estudio,Colombia,2020-03-29
+677,678,29/3/2020,Envigado,ANTIOQUIA,Casa,40 a 49,F,Relacionado,Colombia,2020-03-29
+678,679,29/3/2020,Medellín,ANTIOQUIA,Casa,20 a 29,F,Importado,España,2020-03-29
+679,680,29/3/2020,Envigado,ANTIOQUIA,Casa,10 a 19,F,Relacionado,Colombia,2020-03-29
+680,681,29/3/2020,Medellín,ANTIOQUIA,Casa,0 a 9,F,En estudio,Colombia,2020-03-29
+681,682,29/3/2020,Medellín,ANTIOQUIA,Casa,60 a 69,F,Importado,España,2020-03-29
+682,683,29/3/2020,Rionegro,ANTIOQUIA,Casa,50 a 59,M,En estudio,Colombia,2020-03-29
+683,684,29/3/2020,Medellín,ANTIOQUIA,Casa,40 a 49,M,En estudio,Colombia,2020-03-29
+684,685,29/3/2020,Bucaramanga,SANTANDER,Casa,80 a 89,F,Importado,Brasil,2020-03-29
+685,686,29/3/2020,Bucaramanga,SANTANDER,Casa,50 a 59,M,Importado,Panamá,2020-03-29
+686,687,29/3/2020,Bucaramanga,SANTANDER,Casa,20 a 29,M,Importado,México,2020-03-29
+687,688,29/3/2020,Floridablanca,SANTANDER,Casa,40 a 49,M,En estudio,Colombia,2020-03-29
+688,689,29/3/2020,Lorica,CORDOBA,Casa,30 a 39,M,Relacionado,Colombia,2020-03-29
+689,690,29/3/2020,Oicatá,BOYACA,Casa,70 a 79,F,Importado,Francia,2020-03-29
+690,691,29/3/2020,Dosquebradas,RISARALDA,Casa,50 a 59,F,Importado,Turquía,2020-03-29
+691,692,29/3/2020,Pereira,RISARALDA,Casa,60 a 69,F,Relacionado,Colombia,2020-03-29
+692,693,29/3/2020,Pereira,RISARALDA,Casa,0 a 9,F,Relacionado,Colombia,2020-03-29
+693,694,29/3/2020,Pereira,RISARALDA,Casa,60 a 69,M,Relacionado,Colombia,2020-03-29
+694,695,29/3/2020,Pereira,RISARALDA,Casa,60 a 69,F,Relacionado,Colombia,2020-03-29
+695,696,29/3/2020,Pereira,RISARALDA,Casa,50 a 59,F,Relacionado,Colombia,2020-03-29
+696,697,29/3/2020,Pereira,RISARALDA,Casa,60 a 69,M,Relacionado,Colombia,2020-03-29
+697,698,29/3/2020,Pereira,RISARALDA,Casa,30 a 39,M,Relacionado,Colombia,2020-03-29
+698,699,29/3/2020,Dosquebradas,RISARALDA,Casa,20 a 29,M,Importado,Panamá,2020-03-29
+699,700,29/3/2020,Pereira,RISARALDA,Casa,40 a 49,F,Importado,Francia,2020-03-29
+700,701,29/3/2020,Arjona,BOLIVAR,Casa,20 a 29,M,Relacionado,Colombia,2020-03-29
+701,702,29/3/2020,Arjona,BOLIVAR,Casa,20 a 29,F,Importado,Turquía,2020-03-29
+702,703,30/3/2020,Santana,BOYACA,Casa,70 a 79,F,Relacionado,Colombia,2020-03-30
+703,704,30/3/2020,Cúcuta,NORTE DE SANTANDER,Casa,20 a 29,F,Importado,Panamá,2020-03-30
+704,705,30/3/2020,Sopó,CUNDINAMARCA,Casa,60 a 69,M,Importado,Estados Unidos,2020-03-30
+705,706,30/3/2020,Chía,CUNDINAMARCA,Casa,30 a 39,M,Importado,Ecuador,2020-03-30
+706,707,30/3/2020,Villapinzón,CUNDINAMARCA,Hospital,60 a 69,M,Relacionado,Colombia,2020-03-30
+707,708,30/3/2020,Soacha,CUNDINAMARCA,Casa,50 a 59,F,Importado,Estados Unidos,2020-03-30
+708,709,30/3/2020,Neiva,HUILA,Casa,30 a 39,F,Relacionado,Colombia,2020-03-30
+709,710,30/3/2020,Neiva,HUILA,Fallecido,60 a 69,F,En estudio,Colombia,2020-03-30
+710,711,30/3/2020,Neiva,HUILA,Casa,20 a 29,F,Importado,España,2020-03-30
+711,712,30/3/2020,Palermo,HUILA,Casa,40 a 49,M,En estudio,Colombia,2020-03-30
+712,713,30/3/2020,Palermo,HUILA,Casa,30 a 39,F,Importado,Ecuador,2020-03-30
+713,714,30/3/2020,Cartagena,BOLIVAR,Fallecido,40 a 49,F,En estudio,Colombia,2020-03-30
+714,715,30/3/2020,Cartagena,BOLIVAR,Casa,30 a 39,F,Importado,México,2020-03-30
+715,716,30/3/2020,Cartagena,BOLIVAR,Hospital,40 a 49,F,Relacionado,Colombia,2020-03-30
+716,717,30/3/2020,Santa Marta,MAGDALENA,Casa,20 a 29,F,Relacionado,Colombia,2020-03-30
+717,718,30/3/2020,La Dorada,CALDAS,Casa,60 a 69,F,Relacionado,Colombia,2020-03-30
+718,719,30/3/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,F,Importado,Ecuador,2020-03-30
+719,720,30/3/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,M,Importado,Estados Unidos,2020-03-30
+720,721,30/3/2020,Cali,VALLE DEL CAUCA,Casa,40 a 49,F,Importado,España,2020-03-30
+721,722,30/3/2020,Cali,VALLE DEL CAUCA,Fallecido,60 a 69,M,En estudio,Colombia,2020-03-30
+722,723,30/3/2020,Medellín,ANTIOQUIA,Casa,20 a 29,M,Relacionado,Colombia,2020-03-30
+723,724,30/3/2020,Medellín,ANTIOQUIA,Casa,30 a 39,M,Importado,España,2020-03-30
+724,725,30/3/2020,Medellín,ANTIOQUIA,Casa,30 a 39,F,Relacionado,Colombia,2020-03-30
+725,726,30/3/2020,Medellín,ANTIOQUIA,Casa,30 a 39,M,En estudio,Colombia,2020-03-30
+726,727,30/3/2020,Medellín,ANTIOQUIA,Casa,20 a 29,M,Importado,Londres,2020-03-30
+727,728,30/3/2020,Itagüí,ANTIOQUIA,Casa,50 a 59,M,Relacionado,Colombia,2020-03-30
+728,729,30/3/2020,Medellín,ANTIOQUIA,Casa,60 a 69,M,Relacionado,Colombia,2020-03-30
+729,730,30/3/2020,Medellín,ANTIOQUIA,Casa,10 a 19,F,Relacionado,Colombia,2020-03-30
+730,731,30/3/2020,Medellín,ANTIOQUIA,Casa,80 a 89,M,Importado,Estados Unidos,2020-03-30
+731,732,30/3/2020,Medellín,ANTIOQUIA,Casa,30 a 39,F,Relacionado,Colombia,2020-03-30
+732,733,30/3/2020,Barranquilla,ATLANTICO,Casa,30 a 39,M,En estudio,Colombia,2020-03-30
+733,734,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,50 a 59,M,En estudio,Colombia,2020-03-30
+734,735,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,40 a 49,M,En estudio,Colombia,2020-03-30
+735,736,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,30 a 39,M,En estudio,Colombia,2020-03-30
+736,737,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,Chile - Estados Unidos,2020-03-30
+737,738,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,En estudio,Colombia,2020-03-30
+738,739,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Londres,2020-03-30
+739,740,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,En estudio,Colombia,2020-03-30
+740,741,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,Londres,2020-03-30
+741,742,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-30
+742,743,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,70 a 79,F,En estudio,Colombia,2020-03-30
+743,744,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,En estudio,Colombia,2020-03-30
+744,745,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Importado,Estados Unidos,2020-03-30
+745,746,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,En estudio,Colombia,2020-03-30
+746,747,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,En estudio,Colombia,2020-03-30
+747,748,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,Londres,2020-03-30
+748,749,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Jamaica - Panamá - Islas del caribe - Cartagena,2020-03-30
+749,750,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,M,Importado,Jamaica,2020-03-30
+750,751,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,Importado,Jamaica,2020-03-30
+751,752,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,70 a 79,M,En estudio,Colombia,2020-03-30
+752,753,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,En estudio,Colombia,2020-03-30
+753,754,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,En estudio,Colombia,2020-03-30
+754,755,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,Islas San Martin,2020-03-30
+755,756,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Islas San Martin,2020-03-30
+756,757,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,Islas San Martin,2020-03-30
+757,758,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Islas San Martin,2020-03-30
+758,759,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,70 a 79,M,Importado,Islas San Martin,2020-03-30
+759,760,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,España,2020-03-30
+760,761,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,En estudio,Colombia,2020-03-30
+761,762,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,En estudio,Colombia,2020-03-30
+762,763,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Argentina,2020-03-30
+763,764,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,En estudio,Colombia,2020-03-30
+764,765,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-30
+765,766,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-30
+766,767,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,Estados Unidos,2020-03-30
+767,768,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,En estudio,Colombia,2020-03-30
+768,769,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,80 a 89,M,Importado,Argentina,2020-03-30
+769,770,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,40 a 49,F,En estudio,Colombia,2020-03-30
+770,771,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,70 a 79,F,Importado,Egipto,2020-03-30
+771,772,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,M,Importado,España - Francia,2020-03-30
+772,773,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Importado,Turquía,2020-03-30
+773,774,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,Importado,Estados Unidos,2020-03-30
+774,775,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Relacionado,Colombia,2020-03-30
+775,776,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,0 a 9,M,Relacionado,Colombia,2020-03-30
+776,777,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-30
+777,778,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,40 a 49,M,En estudio,Colombia,2020-03-30
+778,779,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,50 a 59,M,En estudio,Colombia,2020-03-30
+779,780,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,En estudio,Colombia,2020-03-30
+780,781,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,En estudio,Colombia,2020-03-30
+781,782,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,España,2020-03-30
+782,783,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-30
+783,784,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Importado,España,2020-03-30
+784,785,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,Relacionado,Colombia,2020-03-30
+785,786,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Relacionado,Colombia,2020-03-30
+786,787,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,0 a 9,F,Relacionado,Colombia,2020-03-30
+787,788,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,60 a 69,F,En estudio,Colombia,2020-03-30
+788,789,30/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Francia - Holanda,2020-03-30
+789,790,30/3/2020,Cali,VALLE DEL CAUCA,Casa,60 a 69,M,En estudio,Colombia,2020-03-30
+790,791,30/3/2020,Palmira,VALLE DEL CAUCA,Casa,80 a 89,M,En estudio,Colombia,2020-03-30
+791,792,30/3/2020,Cartago,VALLE DEL CAUCA,Casa,20 a 29,F,En estudio,Colombia,2020-03-30
+792,793,30/3/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,M,En estudio,Colombia,2020-03-30
+793,794,30/3/2020,Palmira,VALLE DEL CAUCA,Casa,50 a 59,F,Importado,España,2020-03-30
+794,795,30/3/2020,Palmira,VALLE DEL CAUCA,Casa,10 a 19,M,Relacionado,Colombia,2020-03-30
+795,796,30/3/2020,Palmira,VALLE DEL CAUCA,Casa,20 a 29,M,Importado,España,2020-03-30
+796,797,30/3/2020,Cali,VALLE DEL CAUCA,Hospital,80 a 89,M,En estudio,Colombia,2020-03-30
+797,798,30/3/2020,Cartago,VALLE DEL CAUCA,Casa,60 a 69,F,Importado,Panamá,2020-03-30
+798,799,31/3/2020,Palmira,VALLE DEL CAUCA,Casa,60 a 69,F,Importado,España,2020-03-31
+799,800,31/3/2020,Cartago,VALLE DEL CAUCA,Casa,20 a 29,F,Importado,España,2020-03-31
+800,801,31/3/2020,Cali,VALLE DEL CAUCA,Casa,40 a 49,M,En estudio,Colombia,2020-03-31
+801,802,31/3/2020,Cali,VALLE DEL CAUCA,Hospital,50 a 59,M,En estudio,Colombia,2020-03-31
+802,803,31/3/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,F,Importado,España,2020-03-31
+803,804,31/3/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,M,Importado,España,2020-03-31
+804,805,31/3/2020,Cali,VALLE DEL CAUCA,Casa,20 a 29,M,En estudio,Colombia,2020-03-31
+805,806,31/3/2020,Cali,VALLE DEL CAUCA,Hospital UCI,20 a 29,M,En estudio,Colombia,2020-03-31
+806,807,31/3/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,M,Importado,España,2020-03-31
+807,808,31/3/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,F,Importado,España,2020-03-31
+808,809,31/3/2020,Cali,VALLE DEL CAUCA,Casa,30 a 39,M,Importado,España,2020-03-31
+809,810,31/3/2020,Tumaco,NARIÑO,Casa,0 a 9,M,Importado,Ecuador,2020-03-31
+810,811,31/3/2020,Pasto,NARIÑO,Casa,70 a 79,F,Importado,España,2020-03-31
+811,812,31/3/2020,Valledupar,CESAR,Hospital,40 a 49,M,Relacionado,Colombia,2020-03-31
+812,813,31/3/2020,Valledupar,CESAR,Casa,40 a 49,M,Relacionado,Colombia,2020-03-31
+813,814,31/3/2020,Valledupar,CESAR,Casa,30 a 39,M,Relacionado,Colombia,2020-03-31
+814,815,31/3/2020,Valledupar,CESAR,Casa,30 a 39,M,Importado,Estados Unidos,2020-03-31
+815,816,31/3/2020,Valledupar,CESAR,Casa,20 a 29,M,En estudio,Colombia,2020-03-31
+816,817,31/3/2020,Valledupar,CESAR,Casa,40 a 49,M,Relacionado,Colombia,2020-03-31
+817,818,31/3/2020,Valledupar,CESAR,Casa,20 a 29,M,Relacionado,Colombia,2020-03-31
+818,819,31/3/2020,Barranquilla,ATLANTICO,Casa,20 a 29,M,Importado,Estados Unidos,2020-03-31
+819,820,31/3/2020,Riohacha,LA GUAJIRA,Casa,40 a 49,M,Importado,Estados Unidos,2020-03-31
+820,821,31/3/2020,Santa Marta,MAGDALENA,Casa,70 a 79,M,En estudio,Colombia,2020-03-31
+821,822,31/3/2020,Santa Marta,MAGDALENA,Casa,40 a 49,M,Relacionado,Colombia,2020-03-31
+822,823,31/3/2020,Barranquilla,ATLANTICO,Casa,50 a 59,F,Relacionado,Colombia,2020-03-31
+823,824,31/3/2020,Barranquilla,ATLANTICO,Casa,30 a 39,F,Relacionado,Colombia,2020-03-31
+824,825,31/3/2020,Barranquilla,ATLANTICO,Casa,40 a 49,M,Importado,España,2020-03-31
+825,826,31/3/2020,Barranquilla,ATLANTICO,Casa,20 a 29,M,Importado,Estados Unidos,2020-03-31
+826,827,31/3/2020,Barranquilla,ATLANTICO,Casa,20 a 29,M,Importado,Estados Unidos,2020-03-31
+827,828,31/3/2020,Barranquilla,ATLANTICO,Casa,70 a 79,M,En estudio,Colombia,2020-03-31
+828,829,31/3/2020,Barranquilla,ATLANTICO,Casa,30 a 39,F,En estudio,Colombia,2020-03-31
+829,830,31/3/2020,Cartagena,BOLIVAR,Hospital,50 a 59,F,En estudio,Colombia,2020-03-31
+830,831,31/3/2020,Cartagena,BOLIVAR,Casa,30 a 39,F,Relacionado,Colombia,2020-03-31
+831,832,31/3/2020,Sabaneta,ANTIOQUIA,Casa,50 a 59,M,Importado,Estados Unidos,2020-03-31
+832,833,31/3/2020,Medellín,ANTIOQUIA,Hospital,60 a 69,F,En estudio,Colombia,2020-03-31
+833,834,31/3/2020,Medellín,ANTIOQUIA,Casa,60 a 69,M,Importado,Marruecos,2020-03-31
+834,835,31/3/2020,Medellín,ANTIOQUIA,Casa,50 a 59,F,Relacionado,Colombia,2020-03-31
+835,836,31/3/2020,Medellín,ANTIOQUIA,Casa,60 a 69,M,En estudio,Colombia,2020-03-31
+836,837,31/3/2020,Chía,CUNDINAMARCA,Casa,50 a 59,M,Importado,México,2020-03-31
+837,838,31/3/2020,Cota,CUNDINAMARCA,Casa,10 a 19,M,Importado,Puerto Rico,2020-03-31
+838,839,31/3/2020,Cota,CUNDINAMARCA,Casa,50 a 59,F,Importado,Puerto Rico,2020-03-31
+839,840,31/3/2020,Cota,CUNDINAMARCA,Casa,50 a 59,M,Importado,Puerto Rico,2020-03-31
+840,841,31/3/2020,Cota,CUNDINAMARCA,Casa,40 a 49,F,Importado,Puerto Rico,2020-03-31
+841,842,31/3/2020,Chía,CUNDINAMARCA,Casa,20 a 29,F,En estudio,Colombia,2020-03-31
+842,843,31/3/2020,Cota,CUNDINAMARCA,Casa,50 a 59,F,Relacionado,Colombia,2020-03-31
+843,844,31/3/2020,Zipaquirá,CUNDINAMARCA,Casa,80 a 89,F,En estudio,Colombia,2020-03-31
+844,845,31/3/2020,Chía,CUNDINAMARCA,Casa,40 a 49,F,Importado,México,2020-03-31
+845,846,31/3/2020,Villavicencio,META,Casa,30 a 39,F,Importado,Estados Unidos,2020-03-31
+846,847,31/3/2020,Villavicencio,META,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-31
+847,848,31/3/2020,Villavicencio,META,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-31
+848,849,31/3/2020,Cúcuta,NORTE DE SANTANDER,Hospital,40 a 49,M,En estudio,Colombia,2020-03-31
+849,850,31/3/2020,Puerto Santander,NORTE DE SANTANDER,Casa,20 a 29,M,En estudio,Colombia,2020-03-31
+850,851,31/3/2020,Cúcuta,NORTE DE SANTANDER,Casa,50 a 59,F,Importado,Canadá,2020-03-31
+851,852,31/3/2020,Bucaramanga,SANTANDER,Casa,20 a 29,M,Importado,México,2020-03-31
+852,853,31/3/2020,Bucaramanga,SANTANDER,Casa,30 a 39,M,Importado,Estados Unidos,2020-03-31
+853,854,31/3/2020,Floridablanca,SANTANDER,Casa,50 a 59,M,Importado,Estados Unidos,2020-03-31
+854,855,31/3/2020,Neiva,HUILA,Casa,30 a 39,M,Relacionado,Colombia,2020-03-31
+855,856,31/3/2020,Neiva,HUILA,Casa,30 a 39,F,Relacionado,Colombia,2020-03-31
+856,857,31/3/2020,Neiva,HUILA,Casa,60 a 69,F,Relacionado,Colombia,2020-03-31
+857,858,31/3/2020,Pereira,RISARALDA,Casa,10 a 19,F,Relacionado,Colombia,2020-03-31
+858,859,31/3/2020,Pereira,RISARALDA,Casa,0 a 9,M,Importado,España,2020-03-31
+859,860,31/3/2020,Pereira,RISARALDA,Casa,30 a 39,F,Importado,España,2020-03-31
+860,861,31/3/2020,Pereira,RISARALDA,Hospital,30 a 39,F,En estudio,Colombia,2020-03-31
+861,862,31/3/2020,Pereira,RISARALDA,Casa,30 a 39,M,Importado,España,2020-03-31
+862,863,31/3/2020,Pereira,RISARALDA,Casa,20 a 29,F,Importado,Estados Unidos,2020-03-31
+863,864,31/3/2020,Tunja,BOYACA,Hospital UCI,80 a 89,M,En estudio,Colombia,2020-03-31
+864,865,31/3/2020,Togüi,BOYACA,Casa,70 a 79,F,En estudio,Colombia,2020-03-31
+865,866,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,40 a 49,M,Relacionado,Colombia,2020-03-31
+866,867,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Relacionado,Colombia,2020-03-31
+867,868,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,30 a 39,M,En estudio,Colombia,2020-03-31
+868,869,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,M,Relacionado,Colombia,2020-03-31
+869,870,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,0 a 9,F,Relacionado,Colombia,2020-03-31
+870,871,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,Relacionado,Colombia,2020-03-31
+871,872,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Importado,Ecuador,2020-03-31
+872,873,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,10 a 19,F,Importado,Estados Unidos,2020-03-31
+873,874,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Importado,Estados Unidos,2020-03-31
+874,875,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,M,Relacionado,Colombia,2020-03-31
+875,876,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital UCI,30 a 39,M,Relacionado,Colombia,2020-03-31
+876,877,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Importado,Turquía,2020-03-31
+877,878,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Relacionado,Colombia,2020-03-31
+878,879,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,10 a 19,M,Relacionado,Colombia,2020-03-31
+879,880,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Hospital,60 a 69,F,Relacionado,Colombia,2020-03-31
+880,881,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,Relacionado,Colombia,2020-03-31
+881,882,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,Importado,México,2020-03-31
+882,883,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,Relacionado,Colombia,2020-03-31
+883,884,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,10 a 19,M,Importado,Inglaterra,2020-03-31
+884,885,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,M,Relacionado,Colombia,2020-03-31
+885,886,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,60 a 69,F,En estudio,Colombia,2020-03-31
+886,887,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,Relacionado,Colombia,2020-03-31
+887,888,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-31
+888,889,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-31
+889,890,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,En estudio,Colombia,2020-03-31
+890,891,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,En estudio,Colombia,2020-03-31
+891,892,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,En estudio,Colombia,2020-03-31
+892,893,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-31
+893,894,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,M,En estudio,Colombia,2020-03-31
+894,895,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,En estudio,Colombia,2020-03-31
+895,896,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,10 a 19,M,En estudio,Colombia,2020-03-31
+896,897,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-31
+897,898,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,En estudio,Colombia,2020-03-31
+898,899,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,En estudio,Colombia,2020-03-31
+899,900,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,0 a 9,M,En estudio,Colombia,2020-03-31
+900,901,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-31
+901,902,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,20 a 29,F,En estudio,Colombia,2020-03-31
+902,903,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,M,En estudio,Colombia,2020-03-31
+903,904,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,50 a 59,F,En estudio,Colombia,2020-03-31
+904,905,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,30 a 39,F,En estudio,Colombia,2020-03-31
+905,906,31/3/2020,Bogotá,SANTAFE DE BOGOTA D.C,Casa,40 a 49,F,En estudio,Colombia,2020-03-31

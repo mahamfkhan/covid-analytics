@@ -1,0 +1,176 @@
+,date,location,numbers
+42,2020-03-02,Depok,2.0
+43,2020-03-06,Jakarta,2.0
+44,2020-03-08,Jakarta,2.0
+45,2020-03-10,Bali,1.0
+49,2020-03-13,Central Java,1.0
+46,2020-03-13,Banten,1.0
+47,2020-03-13,Jakarta,1.0
+48,2020-03-13,Yogyakarta,1.0
+50,2020-03-14,Jakarta,1.0
+51,2020-03-15,Jakarta,19.0
+52,2020-03-15,Central Java,2.0
+56,2020-03-16,West Java,1.0
+54,2020-03-16,Banten,1.0
+53,2020-03-16,Jakarta,14.0
+55,2020-03-16,Central Java,1.0
+58,2020-03-17,East Java,6.0
+59,2020-03-17,Riau Islands,1.0
+57,2020-03-17,Central Java,1.0
+64,2020-03-18,North Sumatra,1.0
+60,2020-03-18,Jakarta,30.0
+61,2020-03-18,West Java,12.0
+62,2020-03-18,Banten,4.0
+63,2020-03-18,Central Java,2.0
+65,2020-03-18,Lampung,1.0
+68,2020-03-18,Yogyakarta,1.0
+67,2020-03-18,East Kalimantan,1.0
+69,2020-03-18,Yogyakarta, 1
+69,2020-03-18,East Kalimantan, 1
+69,2020-03-18,Riau, 1
+69,2020-03-18,Lampung, 1
+66,2020-03-18,Riau,1.0
+69,2020-03-18,Central Java, 2
+69,2020-03-18,Banten, 4
+69,2020-03-18,West Java, 12
+69,2020-03-18,Jakarta,30
+69,2020-03-18,North Sumatra, 1
+70,2020-03-19,Jakarta,50
+70,2020-03-19,West Java, 4
+70,2020-03-19,Central Java, 3
+70,2020-03-19,South East Sulawesi, 3
+70,2020-03-19,Yogyakarta, 2
+70,2020-03-19,South Sulawesi, 2
+70,2020-03-19,East Kalimantan, 2
+70,2020-03-19,Riau Islands, 2
+70,2020-03-19,North Sumatra, 1
+70,2020-03-19,Riau, 1
+70,2020-03-19,Banten, 18
+70,2020-03-19,East Java, 1
+71,2020-03-20,West Java,15
+71,2020-03-20,Riau Islands, 2
+71,2020-03-20,Central Kalimantan, 2
+71,2020-03-20,Bali, 3
+71,2020-03-20,Banten, 10
+71,2020-03-20,East Java, 6
+71,2020-03-20,East Kalimantan, 7
+71,2020-03-20,Jakarta, 5
+72,2020-03-21,Jakarta,44
+72,2020-03-21,West Java, 14
+72,2020-03-21,Banten, 4
+72,2020-03-21,Central Java, 2
+72,2020-03-21,Yogyakarta, 1
+72,2020-03-21,East Java, 11
+73,2020-03-22,Central Java, 1
+73,2020-03-22,Jakarta,39
+73,2020-03-22,East Java, 15
+73,2020-03-22,Banten, 4
+73,2020-03-22,West Java, 4
+73,2020-03-22,Papua, 2
+73,2020-03-22,Maluku, 1
+74,2020-03-23,Banten, 9
+74,2020-03-23,Bali, 3
+74,2020-03-23,East Kalimantan, 2
+74,2020-03-23,Jambi, 1
+74,2020-03-23,North Maluku, 1
+74,2020-03-23,Riau Islands, 1
+74,2020-03-23,Jakarta,46
+75,2020-03-24,South Kalimantan, 1
+75,2020-03-24,South Sumatra, 1
+75,2020-03-24,West Nusa Tenggara, 1
+75,2020-03-24,Yogyakarta, 1
+75,2020-03-24,Papua, 1
+75,2020-03-24,West Java, 1
+75,2020-03-24,North Sumatra, 5
+75,2020-03-24,Central Java, 4
+75,2020-03-24,Banten, 9
+75,2020-03-24,East Java, 10
+75,2020-03-24,Jakarta,71
+75,2020-03-24,Central Kalimantan, 1
+75,2020-03-24,South Sulawesi, 2
+75,2020-03-24,West Kalimantan, 1
+76,2020-03-25,Central Java, 19
+76,2020-03-25,Jakarta,39
+76,2020-03-25,West Java, 13
+76,2020-03-25,Yogyakarta, 11
+76,2020-03-25,South Sulawesi, 9
+76,2020-03-25,Bali, 3
+76,2020-03-25,Banten, 2
+76,2020-03-25,Riau, 1
+76,2020-03-25,West Nusa Tenggara, 1
+77,2020-03-26,Aceh, 1
+77,2020-03-26,Lampung, 2
+77,2020-03-26,Central Kalimantan, 2
+77,2020-03-26,Central Java, 2
+77,2020-03-26,Riau, 1
+77,2020-03-26,Papua, 4
+77,2020-03-26,West Java, 5
+77,2020-03-26,Central Sulawesi, 1
+77,2020-03-26,West Sumatra, 3
+77,2020-03-26,East Java, 8
+77,2020-03-26,Jakarta,53
+77,2020-03-26,South Sulawesi, 14
+78,2020-03-27,West Java, 20
+78,2020-03-27,Banten, 17
+78,2020-03-27,Yogyakarta, 6
+78,2020-03-27,Aceh, 3
+78,2020-03-27,Central Java, 2
+78,2020-03-27,West Sumatra, 2
+78,2020-03-27,South Sulawesi, 2
+78,2020-03-27,West Papua, 2
+78,2020-03-27,Lampung, 1
+78,2020-03-27,Jakarta,83
+78,2020-03-27,East Java, 7
+79,2020-03-28,North Kalimantan, 2
+79,2020-03-28,West Java, 21
+79,2020-03-28,Central Java, 12
+79,2020-03-28,East Java, 11
+79,2020-03-28,Banten, 10
+79,2020-03-28,East Kalimantan, 6
+79,2020-03-28,South Sulawesi, 4
+79,2020-03-28,Jakarta,38
+79,2020-03-28,Central Kalimantan, 1
+79,2020-03-28,South Sumatra, 1
+79,2020-03-28,Central Sulawesi, 1
+41,2020-03-29,West Sulawesi,1.0
+31,2020-03-29,Jakarta,48.0
+33,2020-03-29,South Sulawesi,15.0
+34,2020-03-29,East Java,13.0
+35,2020-03-29,Central Java,8.0
+32,2020-03-29,West Java,30.0
+37,2020-03-29,Banten,3.0
+38,2020-03-29,Papua,2.0
+39,2020-03-29,Bali,1.0
+40,2020-03-29,Riau,1.0
+36,2020-03-29,West Kalimantan,5.0
+14,2020-03-30,West Java,25.0
+15,2020-03-30,Jakarta,24.0
+16,2020-03-30,Banten,22.0
+17,2020-03-30,Central Java,17.0
+18,2020-03-30,Bali,9.0
+19,2020-03-30,North Sumatra,5.0
+21,2020-03-30,South Kalimantan,4.0
+20,2020-03-30,Lampung,4.0
+23,2020-03-30,West Sumatra,3.0
+24,2020-03-30,Bangka Belitung,1.0
+25,2020-03-30,East Java,1.0
+26,2020-03-30,Jambi,1.0
+27,2020-03-30,West Kalimantan,1.0
+28,2020-03-30,Riau,1.0
+29,2020-03-30,Riau Islands,1.0
+30,2020-03-30,Yogyakarta,1.0
+22,2020-03-30,South Sulawesi,4.0
+1,2020-03-31,West Java,16.0
+2,2020-03-31,Banten,14.0
+3,2020-03-31,Central Java,13.0
+4,2020-03-31,North Sumatra,6.0
+5,2020-03-31,Yogyakarta,5.0
+6,2020-03-31,East Kalimantan,3.0
+10,2020-03-31,East Java,2.0
+8,2020-03-31,Central Kalimtan,2.0
+9,2020-03-31,South Kalimantan,2.0
+11,2020-03-31,East Nusa Tenggara,2.0
+12,2020-03-31,Bangka Belitung,1.0
+13,2020-03-31,Bengkulu,1.0
+7,2020-03-31,South Sumatra,3.0
+0,2020-03-31,Jakarta,41.0
